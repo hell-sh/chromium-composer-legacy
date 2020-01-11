@@ -1,0 +1,10 @@
+{
+	"name": "hell-sh/pac",
+	"description": "A library to fool around with Chromium asynchronously.",
+	"homepage": "https://github.com/hell-sh/chromium-composer-legacy",
+	"type": "library",
+	"license": "MIT",
+	"require": {
+		"hell-sh/chromium": "^0.1"
+	}
+}
